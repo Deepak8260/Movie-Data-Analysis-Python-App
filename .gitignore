@@ -1,0 +1,5 @@
+# Exclude Jupyter Notebook files
+*.ipynb
+
+# Exclude the movie folder
+movie/
